@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="400" alt="hacker gif" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1c2RqN2l2Z3J4eXh2dWx5b2J0Z2V6dXZ5d2FhZ3V4aG5uNnZ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7ZeB0ZRZ8lqZa/giphy.gif" width="600" alt="PCB animation" />
 </p>
 
 ```bash
