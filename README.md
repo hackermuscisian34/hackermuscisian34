@@ -1,16 +1,43 @@
-<!-- README.md for GitHub Profile -->
+hackermuscisian34's Lair
+Welcome to My Hacker Den! 🔥
+   _____ _          _ _       
+  |  ___| |__   ___| | | ___  
+  | |_  | '_ \ / __| | |/ _ \ 
+  |  _| | | | | (__| | |  __/
+  |_|   |_| |_| \___|_|_|\___|
 
-<h1 align="center">👨‍💻 Alfred Biju — Cyber Sentinel in the Making 👨‍💻</h1>
+ ![PCB Animation](https://media.giphy.com/media/your-gif-id/pcb.gif)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermuscisian34&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=480&lines=Hacking+the+Web+%F0%9F%92%BB;Securing+Digital+Frontiers+%F0%9F%94%91;Python+Ninja+%F0%9F%90%8D;XSS+Detector+Builder+%F0%9F%9A%A1;Future+Red+Teamer+%F0%9F%95%B5%EF%B8%8F;Black+Hat+in+Training+%F0%9F%94%AB" alt="Typing SVG" />
-</p>
+About Me
+Detail-oriented and proactive cybersecurity enthusiast with foundational experience gained through internships and academic projects. Currently pursuing a Bachelor of Technology in Cybersecurity at St. Joseph's College of Engineering and Technology. Skilled in Python scripting and real-world application development, with a strong analytical mindset aimed at identifying and mitigating security vulnerabilities.
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1c2RqN2l2Z3J4eXh2dWx5b2J0Z2V6dXZ5d2FhZ3V4aG5uNnZ5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7ZeB0ZRZ8lqZa/giphy.gif" width="600" alt="PCB animation" />
-</p>
+Skills
 
-```bash
-> whoami
-Alfred Biju
-Cybersecurity | Python Dev | Offensive Security | OSINT Addict
+Cybersecurity: Cybersecurity Fundamentals, Ethical Hacking, Incident Response, Vulnerability Analysis, Threat Intelligence, Network Security
+Programming: Python, Web Development, Mobile App Development
+General Skills: Problem Solving, Analytical Thinking
+
+
+Projects
+
+Firewall for AI LLM (Jul 2024 - Sep 2024)Developed a custom firewall for large language models (LLMs) to enhance security, control prompt access, and prevent unauthorized data exposure.
+
+Smart Irrigation System (Jul 2021 - Sep 2021)Built an IoT-based project that gathers weather parameters and irrigates large-scale farms digitally.
+
+XSS Cross Site Scripting Detection Tool (Jun 2023 - Jun 2023)Developed an XSS detection tool using Python and FastAPI for real-time identification and prevention of cross-site scripting attacks.
+
+GitHub Repositories:
+
+Xsscrossite - A Python project for XSS detection.
+quiz - A Python-based quiz application.
+vulnimage - A Dockerfile for a vulnerable image, possibly for testing.
+asthra-ctf - A forked repository for CTF challenges, in HTML.
+voice-it - A forked repository for voice-related projects, in TypeScript.
+my-portfolio - Personal portfolio website.
+
+
+
+
+Connect with Me
+Feel free to reach out or collaborate on projects! 🚀
