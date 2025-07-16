@@ -1,43 +1,47 @@
-hackermuscisian34's Lair
-Welcome to My Hacker Den! 🔥
-   _____ _          _ _       
-  |  ___| |__   ___| | | ___  
-  | |_  | '_ \ / __| | |/ _ \ 
-  |  _| | | | | (__| | |  __/
-  |_|   |_| |_| \___|_|_|\___|
+# Hi 👋, I'm ALFRED BIJU
+**Cybersecurity Engineer** | **Full-Stack Developer** | **Security Researcher**  
+A passionate security-focused developer from India, currently pursuing B.Tech in Cybersecurity at St. Joseph's College of Engineering. Specializing in building secure applications and threat mitigation systems.
 
- ![PCB Animation](https://media.giphy.com/media/your-gif-id/pcb.gif)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermuscisian34&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/ajaydesigns)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/AjayVarmadesignare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-varma-67b8b0289/)
 
-About Me
-Detail-oriented and proactive cybersecurity enthusiast with foundational experience gained through internships and academic projects. Currently pursuing a Bachelor of Technology in Cybersecurity at St. Joseph's College of Engineering and Technology. Skilled in Python scripting and real-world application development, with a strong analytical mindset aimed at identifying and mitigating security vulnerabilities.
+# 💻 Tech Stack:
+### Security Specialization
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vulnerability Analysis](https://img.shields.io/badge/-Vulnerability%20Analysis-important)
+![Threat Intelligence](https://img.shields.io/badge/-Threat%20Intelligence-blueviolet)
+![Network Security](https://img.shields.io/badge/-Network%20Security-success)
 
-Skills
+### Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-Cybersecurity: Cybersecurity Fundamentals, Ethical Hacking, Incident Response, Vulnerability Analysis, Threat Intelligence, Network Security
-Programming: Python, Web Development, Mobile App Development
-General Skills: Problem Solving, Analytical Thinking
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
+## 🔐 Security Projects
+| Project | Description | Technologies |
+|---------|-------------|-------------|
+| **Firewall for AI LLM** | Custom security layer for large language models | Python, Security Protocols |
+| **XSS Detection Tool** | Real-time prevention of cross-site scripting attacks | Python, FastAPI |
+| **Smart Irrigation System** | IoT-based agricultural automation | IoT, Sensor Networks |
 
-Projects
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ajayvarma007789&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ajayvarma007789&theme=dark&hide_border=false)
 
-Firewall for AI LLM (Jul 2024 - Sep 2024)Developed a custom firewall for large language models (LLMs) to enhance security, control prompt access, and prevent unauthorized data exposure.
+## 🎓 Education
+**B.Tech Cybersecurity**  
+St. Joseph's College of Engineering & Technology  
+*Cybersecurity Fundamentals • Ethical Hacking • Incident Response*
 
-Smart Irrigation System (Jul 2021 - Sep 2021)Built an IoT-based project that gathers weather parameters and irrigates large-scale farms digitally.
+**Certifications:**  
+`Network Security` `Android Security` `Threat Intelligence` `OSINT Tools`
 
-XSS Cross Site Scripting Detection Tool (Jun 2023 - Jun 2023)Developed an XSS detection tool using Python and FastAPI for real-time identification and prevention of cross-site scripting attacks.
-
-GitHub Repositories:
-
-Xsscrossite - A Python project for XSS detection.
-quiz - A Python-based quiz application.
-vulnimage - A Dockerfile for a vulnerable image, possibly for testing.
-asthra-ctf - A forked repository for CTF challenges, in HTML.
-voice-it - A forked repository for voice-related projects, in TypeScript.
-my-portfolio - Personal portfolio website.
-
-
-
-
-Connect with Me
-Feel free to reach out or collaborate on projects! 🚀
+<img src="https://raw.githubusercontent.com/ajayvarma007789/ajayvarma007789/output/snake.svg" alt="Coding Activity" />
