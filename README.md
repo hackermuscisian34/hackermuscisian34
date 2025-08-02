@@ -13,20 +13,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Matrix Code Rain">
 
-</div>
-
-**`root@hackermuscisian34:~$` Elite Hacker** | **Code Musician** | **Digital Phantom**  
-*Breaking systems, building solutions, composing code symphonies* 🎵⚡
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Hacker Cat">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Coding Animation">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" alt="Hacker Cat">
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=System+Infiltration+Specialist;Code+Architect+%26+Security+Researcher;Digital+Music+Producer;Full-Stack+Phantom+Developer;404%3A+Sleep+Not+Found;Caffeine+Powered+Hacker;Turning+Coffee+Into+Code)](https://git.io/typing-svg)
 
 ---
 
