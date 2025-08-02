@@ -140,12 +140,10 @@ Status: ██████████ ONLINE & READY TO HACK ██████
 ## 🏆 **ACHIEVEMENTS UNLOCKED**
 
 ```bash
-[✓] OSCP Certified Ethical Hacker
-[✓] Bug Bounty Hunter - $10K+ Earned  
-[✓] CTF Champion - Multiple International Wins
+ 
 [✓] 0-Day Vulnerability Discoverer
-[✓] Music Producer - 1M+ Streams
-[✓] Full-Stack Security Architect
+[✓] Music Producer
+[✓] Full-Stack developer 
 [✓] Malware Analysis Expert
 [⏳] Advanced Persistent Threat Specialist (In Progress)
 ```
@@ -160,9 +158,6 @@ hackermuscisian34@darkweb:~$ cat recent_activities.log
 [2025-08-02 03:17:42] ✅ Successfully penetrated corporate network
 [2025-08-01 23:45:33] 🎵 Released new cyberpunk track "Digital Shadows"
 [2025-08-01 18:22:11] 🔍 Discovered critical XSS in major web application
-[2025-07-31 14:30:15] ⚡ Optimized exploit payload - 300% faster execution
-[2025-07-30 22:11:08] 🛡️ Implemented zero-trust security architecture
-[2025-07-29 16:45:22] 🎯 Won international CTF competition - 1st place
 ```
 
 ---
@@ -238,5 +233,3 @@ hackermuscisian34@darkweb:~$ cat recent_activities.log
 </div>
 
 ---
-
-<img src="https://raw.githubusercontent.com/hackermuscisian34/hackermuscisian34/output/snake.svg" alt="Snake eating commits" />
